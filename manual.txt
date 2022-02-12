@@ -1,0 +1,5 @@
+myvenvを実行するとき
+	たぬフォルダから「myvenv\Scripts\activate」
+
+myvenvを作るとき
+	python -m venv myvenv
